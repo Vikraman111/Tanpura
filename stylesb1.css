@@ -1,0 +1,131 @@
+
+body{
+    background-image: url(Carnatic\ WP.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+.navbar ul{
+    list-style-type: none;
+}
+
+.navbar ul a{
+    text-decoration: none;
+    color:white;
+    float: left;
+    padding: 0px 50px;
+}
+.navbar ul a:hover{
+    color:black;
+    background-color: beige;
+}
+
+#title{
+    color:aqua;
+    font-size: 2.5em;
+}
+
+#boxA{
+    width:450px;
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translateX(60px);
+}
+#boxAsharp{
+    width:450px;
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(700px,-250px)
+}
+
+#boxC{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(60px,-230px);
+}
+
+#boxCsharp{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(700px,-480px)
+}
+
+#boxD{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(60px,-460px)
+}
+
+#boxDsharp{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(700px,-710px)
+}
+
+#boxF{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(60px,-690px)
+}
+
+#boxFsharp{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(700px,-940px)
+}
+
+#boxG{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(60px,-920px)
+}
+
+#boxGsharp{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(700px,-1170px)
+}
+
+#boxB{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(60px,-1150px)
+}
+
+#boxE{
+    width:450px;
+   
+    border:5px solid;
+    font-size:3em;
+    text-align: center;
+    transform:translate(700px,-1400px)
+}
